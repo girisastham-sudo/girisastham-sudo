@@ -1,123 +1,97 @@
 
-<!-- ========== ANIMATED GITHUB PROFILE README ========== -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=80&lines=Hey+There!+%F0%9F%91%8B;I'm+Girisastha+M;Information+Technology+Student;Future+Software+Developer" alt="Animated typing introduction" />
+<!-- ANIMATED TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=HEY%2C+I'M+GIRISASTHA+M;IT+STUDENT+%F0%9F%92%BB;FRONTEND+DEVELOPER+IN+PROGRESS;QUICK+LEARNER+%E2%9A%A1" width="100%" alt="Animated introduction"/>
 
-<h1>✨ Hi, I'm Girisastha M ✨</h1>
-
-<h2>💻 Information Technology Student</h2>
-
-<p>
-  <b>Bannari Amman Institute of Technology</b>
-</p>
-
-<img src="https://img.shields.io/badge/Student-Information%20Technology-blue?style=for-the-badge&logo=academia&logoColor=white" alt="IT Student" />
-
-<img src="https://img.shields.io/badge/Quick%20Learner-Always%20Learning-00C2FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Quick Learner" />
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050A30,50:0077FF,100:00F7FF&text=GIRISASTHA%20M&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=INFORMATION%20TECHNOLOGY%20%7C%20BIT&descAlignY=62&animation=twinkling" alt="Animated blue banner"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656977-6e7a0c1a-8e50-4a36-b1a4-2f3f6b3d2a0f.gif" width="300" alt="Coding animation" />
+<img src="https://img.shields.io/badge/🎓-Bannari_Amman_Institute_of_Technology-071952?style=for-the-badge" alt="College"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Animated programmer coding"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">⚡ ABOUT ME ⚡</h2>
+
+<div align="center">
 
 ```javascript
-const girisastha = {
+const developer = {
     name: "Girisastha M",
     college: "Bannari Amman Institute of Technology",
     department: "Information Technology",
     skills: ["HTML", "CSS", "JavaScript"],
-    strengths: ["Quick Learner", "Problem Solving"],
-    currentlyLearning: "Web Development",
-    goal: "Become a skilled software developer",
-    motto: "Learn, Build, Improve, Repeat! 🚀"
+    personality: "Quick Learner",
+    passion: "Web Development",
+    mindset: "Never Stop Learning 🚀"
 };
-
-console.log("Welcome to my GitHub profile!");
 ```
 
-- 🎓 I'm an Information Technology student at Bannari Amman Institute of Technology.
-- 💻 I enjoy creating websites using HTML, CSS, and JavaScript.
-- ⚡ I'm a quick learner who enjoys exploring new technologies.
-- 🌱 I'm continuously improving my programming and web development skills.
-- 🎯 My goal is to build creative and useful digital projects.
+</div>
 
 ---
 
-## 🛠️ My Tech Stack
+<h2 align="center">🔥 MY SKILLS 🔥</h2>
 
 <div align="center">
 
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="350" alt="Animated style skill icons"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-
-<img src="https://img.shields.io/badge/CSS3-Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-<img src="https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">🚀 MY CODING JOURNEY 🚀</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=girisastham-sudo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=00F7FF&center=true&vCenter=true&width=750&height=80&lines=Learning+%E2%9C%A8;Coding+%F0%9F%92%BB;Creating+%F0%9F%94%A5;Improving+Every+Day+%F0%9F%9A%80" alt="Animated coding journey"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girisastham-sudo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=girisastham-sudo&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" width="100%" alt="GitHub statistics"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=girisastham-sudo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=girisastham-sudo&theme=tokyonight&hide_border=true" width="100%" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## 🎯 My Goals
-
-- 🚀 Build responsive and interactive websites.
-- 💡 Improve my problem-solving skills.
-- 🌐 Learn advanced frontend and backend technologies.
-- 🤝 Collaborate with other developers on projects.
-- 📈 Grow as a developer through consistent learning.
-
----
-
-## 💫 My Developer Mindset
+<h2 align="center">🌌 MY MINDSET 🌌</h2>
 
 <div align="center">
 
-<h3>💙 Learn Something New Every Day</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:050A30,100:0077FF&text=LEARN%20%7C%20BUILD%20%7C%20GROW&fontSize=28&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Animated developer motto"/>
 
-<h3>⚡ Turn Ideas into Code</h3>
+### 💙 Turning Curiosity into Code
 
-<h3>🚀 Build. Experiment. Grow.</h3>
+### ⚡ Small Steps. Big Dreams.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&height=55&lines=Learning+Today%2C+Leading+Tomorrow;Every+Line+of+Code+Matters;Keep+Learning+%F0%9F%92%BB+Keep+Growing+%F0%9F%9A%80" alt="Animated developer motto" />
+### 🚀 Future Software Developer
 
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=girisastham-sudo&style=for-the-badge&color=00F7FF" alt="Profile views"/>
 
-<div align="center">
-
-### 🌟 Thanks for Visiting My Profile!
-
-**⭐ Keep Learning | Keep Building | Keep Growing ⭐**
-
-<img src="https://komarev.com/ghpvc/?username=girisastham-sudo&style=for-the-badge&color=00C2FF" alt="Profile views" />
+**THANKS FOR VISITING MY PROFILE! 💫**
 
 </div>
+
+
+
