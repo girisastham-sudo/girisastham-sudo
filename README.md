@@ -87,7 +87,7 @@ const developer = {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=girisastham-sudo&style=for-the-badge&color=00F7FF" alt="Profile views"/>
+<a href=https://www.linkedin.com/in/girisastha-m-3a6747433/>Linkedin</a>
 
 **THANKS FOR VISITING MY PROFILE! 💫**
 
