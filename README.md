@@ -22,20 +22,15 @@
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
 
 <div align="center">
-
-```javascript
-<center>const developer = {
-    name: "Girisastha M",
+const developer = {
+    Name: "Girisastha M",
     college: "Bannari Amman Institute of Technology",
     department: "Information Technology",
     skills: ["HTML", "CSS", "JavaScript"],
     personality: "Quick Learner",
     passion: "Web Development",
     mindset: "Never Stop Learning 🚀"
-};</center>
-```
-
-</div>
+};</div>
 
 ---
 
