@@ -24,7 +24,7 @@
 <div align="center">
 
 ```javascript
-const developer = {
+<center>const developer = {
     name: "Girisastha M",
     college: "Bannari Amman Institute of Technology",
     department: "Information Technology",
@@ -32,7 +32,7 @@ const developer = {
     personality: "Quick Learner",
     passion: "Web Development",
     mindset: "Never Stop Learning 🚀"
-};
+};</center>
 ```
 
 </div>
